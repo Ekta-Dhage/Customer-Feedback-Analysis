@@ -1,5 +1,5 @@
 Customer Feedback Analysis (Python)
-I analyzed a customer feedback dataset (200 rows) to understand what people like, what issues they face, and how the business can improve.
+I analyzed a customer feedback dataset to understand what people like, what issues they face, and how the business can improve.
 The project includes data cleaning, visual analysis, and key insights.
 
 Tools & Libraries Used :
