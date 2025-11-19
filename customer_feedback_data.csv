@@ -1,0 +1,201 @@
+Customer_ID,Product,Feedback,Rating,Sentiment
+1,Customer Support,Great experience overall!,2,Positive
+2,Payment,Needs improvement in delivery time.,3,Positive
+3,Delivery,Customer support was very helpful.,4,Neutral
+4,Payment,The service was quick but could be better.,5,Negative
+5,Payment,The service was quick but could be better.,1,Positive
+6,Website,Amazing support from the team.,5,Positive
+7,Delivery,Customer support was very helpful.,4,Neutral
+8,Delivery,Quality is not as expected.,4,Positive
+9,Delivery,"I love the product, very useful!",4,Negative
+10,Payment,Delivery took too long.,5,Negative
+11,Customer Support,The service was quick but could be better.,4,Positive
+12,Delivery,Payment process failed multiple times.,5,Positive
+13,Product Quality,The service was quick but could be better.,4,Neutral
+14,Payment,Great experience overall!,3,Negative
+15,Website,The service was quick but could be better.,4,Negative
+16,Customer Support,The service was quick but could be better.,5,Positive
+17,Product Quality,"I love the product, very useful!",2,Neutral
+18,Product Quality,"I love the product, very useful!",4,Negative
+19,Website,Website is easy to navigate.,2,Negative
+20,Customer Support,Quality is not as expected.,3,Neutral
+21,Payment,Payment process failed multiple times.,1,Neutral
+22,Mobile App,The service was quick but could be better.,3,Negative
+23,Customer Support,The service was quick but could be better.,4,Negative
+24,Website,Delivery took too long.,2,Neutral
+25,Product Quality,"I love the product, very useful!",2,Negative
+26,Payment,Payment process failed multiple times.,5,Positive
+27,Customer Support,Amazing support from the team.,2,Positive
+28,Mobile App,Website is easy to navigate.,5,Neutral
+29,Mobile App,Quality is not as expected.,1,Neutral
+30,Delivery,Customer support was very helpful.,4,Neutral
+31,Delivery,Quality is not as expected.,5,Positive
+32,Website,Great experience overall!,1,Negative
+33,Customer Support,The service was quick but could be better.,2,Positive
+34,Customer Support,Website is easy to navigate.,2,Negative
+35,Product Quality,Great experience overall!,1,Positive
+36,Product Quality,Payment process failed multiple times.,2,Negative
+37,Product Quality,Customer support was very helpful.,1,Positive
+38,Delivery,"I love the product, very useful!",5,Neutral
+39,Customer Support,Website is easy to navigate.,5,Positive
+40,Customer Support,Website is easy to navigate.,1,Negative
+41,Mobile App,The service was quick but could be better.,5,Positive
+42,Delivery,Needs improvement in delivery time.,5,Positive
+43,Payment,Website is easy to navigate.,5,Positive
+44,Delivery,Delivery took too long.,3,Neutral
+45,Payment,Customer support was very helpful.,4,Positive
+46,Mobile App,Customer support was very helpful.,2,Neutral
+47,Website,Delivery took too long.,3,Neutral
+48,Customer Support,Amazing support from the team.,5,Positive
+49,Mobile App,Delivery took too long.,1,Positive
+50,Customer Support,Delivery took too long.,5,Positive
+51,Product Quality,Customer support was very helpful.,4,Negative
+52,Website,Quality is not as expected.,5,Positive
+53,Website,Customer support was very helpful.,1,Neutral
+54,Mobile App,Needs improvement in delivery time.,4,Positive
+55,Website,The service was quick but could be better.,5,Negative
+56,Payment,Great experience overall!,4,Positive
+57,Website,Quality is not as expected.,2,Negative
+58,Customer Support,"I love the product, very useful!",2,Negative
+59,Customer Support,Great experience overall!,5,Positive
+60,Customer Support,The service was quick but could be better.,4,Neutral
+61,Customer Support,Needs improvement in delivery time.,1,Negative
+62,Payment,Needs improvement in delivery time.,5,Positive
+63,Delivery,"I love the product, very useful!",2,Positive
+64,Product Quality,Quality is not as expected.,2,Neutral
+65,Mobile App,Amazing support from the team.,5,Negative
+66,Customer Support,Delivery took too long.,4,Negative
+67,Website,Quality is not as expected.,2,Positive
+68,Customer Support,Amazing support from the team.,4,Positive
+69,Website,Needs improvement in delivery time.,2,Neutral
+70,Product Quality,Customer support was very helpful.,2,Neutral
+71,Product Quality,The service was quick but could be better.,3,Negative
+72,Product Quality,"I love the product, very useful!",2,Negative
+73,Website,The service was quick but could be better.,1,Positive
+74,Customer Support,Payment process failed multiple times.,5,Negative
+75,Product Quality,Payment process failed multiple times.,5,Neutral
+76,Payment,Quality is not as expected.,4,Neutral
+77,Website,Needs improvement in delivery time.,2,Positive
+78,Website,Needs improvement in delivery time.,1,Neutral
+79,Customer Support,Delivery took too long.,4,Neutral
+80,Website,Delivery took too long.,3,Neutral
+81,Website,Delivery took too long.,4,Neutral
+82,Product Quality,Customer support was very helpful.,4,Positive
+83,Customer Support,Great experience overall!,2,Positive
+84,Product Quality,Website is easy to navigate.,3,Negative
+85,Product Quality,Great experience overall!,4,Neutral
+86,Customer Support,The service was quick but could be better.,1,Negative
+87,Mobile App,Great experience overall!,1,Positive
+88,Product Quality,Customer support was very helpful.,5,Positive
+89,Payment,The service was quick but could be better.,3,Positive
+90,Payment,Great experience overall!,3,Positive
+91,Website,Customer support was very helpful.,5,Positive
+92,Payment,Website is easy to navigate.,4,Positive
+93,Website,Great experience overall!,3,Positive
+94,Mobile App,Customer support was very helpful.,1,Neutral
+95,Customer Support,Delivery took too long.,1,Negative
+96,Customer Support,Needs improvement in delivery time.,2,Positive
+97,Customer Support,Delivery took too long.,3,Neutral
+98,Payment,Needs improvement in delivery time.,4,Neutral
+99,Mobile App,"I love the product, very useful!",5,Negative
+100,Payment,"I love the product, very useful!",5,Positive
+101,Payment,"I love the product, very useful!",4,Negative
+102,Mobile App,Website is easy to navigate.,2,Positive
+103,Mobile App,Delivery took too long.,5,Neutral
+104,Mobile App,Needs improvement in delivery time.,3,Neutral
+105,Mobile App,Customer support was very helpful.,2,Neutral
+106,Customer Support,The service was quick but could be better.,3,Neutral
+107,Delivery,Customer support was very helpful.,1,Negative
+108,Delivery,The service was quick but could be better.,2,Positive
+109,Mobile App,Payment process failed multiple times.,5,Positive
+110,Delivery,Customer support was very helpful.,2,Negative
+111,Delivery,Great experience overall!,2,Positive
+112,Mobile App,Great experience overall!,2,Neutral
+113,Delivery,Quality is not as expected.,2,Positive
+114,Payment,Delivery took too long.,3,Neutral
+115,Website,The service was quick but could be better.,1,Negative
+116,Website,The service was quick but could be better.,4,Positive
+117,Mobile App,Delivery took too long.,2,Negative
+118,Customer Support,Website is easy to navigate.,5,Positive
+119,Mobile App,Quality is not as expected.,2,Neutral
+120,Customer Support,Website is easy to navigate.,5,Negative
+121,Website,Website is easy to navigate.,3,Positive
+122,Mobile App,Website is easy to navigate.,5,Neutral
+123,Product Quality,Delivery took too long.,4,Negative
+124,Payment,Website is easy to navigate.,1,Negative
+125,Delivery,Great experience overall!,5,Positive
+126,Customer Support,"I love the product, very useful!",5,Positive
+127,Product Quality,Payment process failed multiple times.,1,Positive
+128,Delivery,The service was quick but could be better.,4,Neutral
+129,Delivery,The service was quick but could be better.,2,Positive
+130,Mobile App,Payment process failed multiple times.,5,Negative
+131,Delivery,Delivery took too long.,1,Negative
+132,Payment,Customer support was very helpful.,3,Positive
+133,Product Quality,Delivery took too long.,1,Positive
+134,Delivery,The service was quick but could be better.,3,Negative
+135,Mobile App,The service was quick but could be better.,4,Neutral
+136,Payment,Payment process failed multiple times.,2,Positive
+137,Website,Website is easy to navigate.,1,Positive
+138,Product Quality,Delivery took too long.,5,Negative
+139,Delivery,Needs improvement in delivery time.,4,Positive
+140,Mobile App,Payment process failed multiple times.,1,Neutral
+141,Website,Great experience overall!,5,Negative
+142,Website,The service was quick but could be better.,1,Positive
+143,Customer Support,Payment process failed multiple times.,3,Negative
+144,Payment,Delivery took too long.,1,Positive
+145,Delivery,The service was quick but could be better.,1,Positive
+146,Mobile App,Customer support was very helpful.,1,Positive
+147,Customer Support,Payment process failed multiple times.,4,Neutral
+148,Payment,Quality is not as expected.,1,Neutral
+149,Customer Support,The service was quick but could be better.,5,Negative
+150,Product Quality,Delivery took too long.,3,Positive
+151,Payment,"I love the product, very useful!",3,Positive
+152,Payment,Needs improvement in delivery time.,1,Neutral
+153,Delivery,Amazing support from the team.,4,Positive
+154,Payment,Website is easy to navigate.,4,Neutral
+155,Customer Support,Amazing support from the team.,5,Positive
+156,Payment,Delivery took too long.,1,Negative
+157,Delivery,Great experience overall!,3,Positive
+158,Delivery,Great experience overall!,4,Positive
+159,Product Quality,"I love the product, very useful!",1,Neutral
+160,Customer Support,Website is easy to navigate.,4,Positive
+161,Website,Quality is not as expected.,4,Positive
+162,Website,"I love the product, very useful!",3,Neutral
+163,Payment,Amazing support from the team.,2,Negative
+164,Product Quality,"I love the product, very useful!",5,Negative
+165,Mobile App,Amazing support from the team.,5,Neutral
+166,Payment,The service was quick but could be better.,3,Neutral
+167,Product Quality,Great experience overall!,4,Neutral
+168,Customer Support,The service was quick but could be better.,1,Neutral
+169,Customer Support,Needs improvement in delivery time.,4,Neutral
+170,Customer Support,Website is easy to navigate.,3,Negative
+171,Customer Support,Quality is not as expected.,5,Negative
+172,Customer Support,Amazing support from the team.,4,Neutral
+173,Product Quality,Quality is not as expected.,5,Positive
+174,Product Quality,Amazing support from the team.,1,Neutral
+175,Delivery,Delivery took too long.,5,Positive
+176,Website,"I love the product, very useful!",5,Neutral
+177,Customer Support,Needs improvement in delivery time.,2,Neutral
+178,Mobile App,Great experience overall!,2,Negative
+179,Product Quality,Amazing support from the team.,2,Positive
+180,Mobile App,Quality is not as expected.,5,Positive
+181,Mobile App,Needs improvement in delivery time.,3,Negative
+182,Mobile App,Customer support was very helpful.,5,Negative
+183,Delivery,Customer support was very helpful.,3,Negative
+184,Product Quality,The service was quick but could be better.,3,Negative
+185,Mobile App,Great experience overall!,2,Positive
+186,Customer Support,Delivery took too long.,4,Positive
+187,Payment,Quality is not as expected.,1,Neutral
+188,Mobile App,"I love the product, very useful!",2,Neutral
+189,Delivery,"I love the product, very useful!",2,Negative
+190,Product Quality,Quality is not as expected.,4,Negative
+191,Delivery,Website is easy to navigate.,1,Negative
+192,Mobile App,Delivery took too long.,5,Neutral
+193,Product Quality,Needs improvement in delivery time.,5,Neutral
+194,Payment,Amazing support from the team.,2,Neutral
+195,Mobile App,Website is easy to navigate.,1,Neutral
+196,Delivery,Amazing support from the team.,2,Neutral
+197,Website,Amazing support from the team.,3,Neutral
+198,Customer Support,Website is easy to navigate.,2,Neutral
+199,Delivery,The service was quick but could be better.,2,Negative
+200,Product Quality,Customer support was very helpful.,5,Negative
