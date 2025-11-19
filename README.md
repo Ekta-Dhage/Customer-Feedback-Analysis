@@ -1,4 +1,4 @@
-Customer Feedback Analysis (Python)
+Customer Feedback Analysis (Python) :
 I analyzed a customer feedback dataset to understand what people like, what issues they face, and how the business can improve.
 The project includes data cleaning, visual analysis, and key insights.
 
